@@ -21,4 +21,14 @@ while True:
     os.system(color_s)
     print('\a') ## this is unnecessary but I kept it for no reason
     winsound.Beep(frequency, duration)
-    
+
+
+## Color codes for windows command prompt
+# 0 = Black       8 = Gray
+# 1 = Blue        9 = Light Blue
+# 2 = Green       A = Light Green
+# 3 = Aqua        B = Light Aqua
+# 4 = Red         C = Light Red
+# 5 = Purple      D = Light Purple
+# 6 = Yellow      E = Light Yellow
+# 7 = White       F = Bright White
